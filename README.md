@@ -5,7 +5,7 @@ A Web application allows users to choose what classification algorithm they want
 
 To Run this app you must have streamlit python package. 
 
-## Availalbe Algorithms:
+## Available Algorithms:
 
 ### Support Vector Machine (SVM). 
 ### Logisitic Regression.
