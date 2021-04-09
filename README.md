@@ -7,9 +7,9 @@ To Run this app you must have streamlit python package.
 
 ## Available Algorithms:
 
-**1-Support Vector Machine (SVM).** 
-**2-Logisitic Regression.**
-**3-Random Forest.**
+**1-Support Vector Machine (SVM).**<br> 
+**2-Logisitic Regression.**<br>
+**3-Random Forest.**<br>
 
 ## Running note:
 To run this app you can write 
